@@ -115,7 +115,7 @@ view: prediction_input {
   }
 }
 
-explore: trip_count_prediction {}
+# explore: trip_count_prediction {}
 
 view: trip_count_prediction {
   derived_table: {

@@ -1,4 +1,4 @@
-explore: weather {}
+# explore: weather {}
 
 view: weather {
   sql_table_name: bike_share.weather ;;
